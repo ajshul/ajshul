@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I’m A.J. Shulman  
+
+I’m a **Brown University student** studying **Computer Science + Computational Neuroscience**.  
+I love to build at the intersection of **AI, brain science, and socially responsible tech**.  
+
+🌐 [ajshulman.com](http://ajshulman.com)  
+
+---
+### 🔬 Interests  
+- AI research & agentic systems  
+- Brain-computer interfaces (BCIs) & neuroengineering  
+- Learning science & accessible technology  
+---
+✨ Always curious. Always building.  
